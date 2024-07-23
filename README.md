@@ -1,2 +1,3 @@
-# new-repository-demo
-A repository to demonstrate the creation of a new repository.
+# How to create a new repository - demonstration
+
+A new line to my README file!
